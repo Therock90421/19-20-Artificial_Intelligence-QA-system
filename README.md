@@ -1,2 +1,7 @@
-# 19-20-Artificial_Intelligence QA-system
- 19-20Autumn Artificial Intelligence assignment UCAS
+# 中国科学院大学 2019-2020秋季学期 人工智能基础大作业
+
+开发一个简易的查询式对话系统 
+
+
+
+
